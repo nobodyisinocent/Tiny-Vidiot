@@ -4,10 +4,9 @@ A very low profile vidiot module for Amiga
 # Table of contents
 1. [Why an another Vidiot](#1)
 2. [Pictures of the PCB in Kicad](#2)
-3. [Why a four layers PCB](#3)
-4. [PCB assembled](#4)
-5. [About the project files](#5)
-6. [BOM](#6)
+3. [PCB assembled](#3)
+4. [About the project files](#4)
+5. [BOM](#5)
 
 # Why an another Vidiot <a name="1"></a>
 
