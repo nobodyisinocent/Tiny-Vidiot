@@ -26,6 +26,9 @@ To obtain the littlest pcb possible, the two followings thinks were decided:
 
 ![image3](https://user-images.githubusercontent.com/80821708/210881507-52e4b7d6-c75f-4145-a379-fb017e032946.png)
 
+![image4](https://user-images.githubusercontent.com/80821708/210883358-9651c92a-53c1-4269-8bcf-f4d88ec71e8c.png)
+
+
 # PCB assembled <a name="3"></a>
 Pictures of the Tiny-Vidiot here soon.
 
