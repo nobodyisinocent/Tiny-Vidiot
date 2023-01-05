@@ -20,10 +20,10 @@ To obtain the littlest pcb possible, the two followings thinks were decided:
 
 # Pictures of the PCB in Kicad <a name="2"></a>
 
-# PCB assembled <a name="4"></a>
+# PCB assembled <a name="3"></a>
 Pictures of the Tiny-Vidiot here soon.
 
-# About the project files <a name="5"></a>
+# About the project files <a name="4"></a>
 
 The complete project of this four layers PCB is available here for downloading.
 
@@ -34,7 +34,7 @@ To make this pcb, I did not wear out the planet or try to reinvent the wheel... 
 The Sukkopera project is available here:
 https://github.com/SukkoPera/OpenAmigaVideoHybrid
 
-# BOM <a name="6"></a>
+# BOM <a name="5"></a>
 
 |Id	|Designator	|Package	|Quantity	|Designation	|Link  |
 |---|---|---|---|---|---|
