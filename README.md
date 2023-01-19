@@ -1,5 +1,5 @@
 # Tiny-Vidiot
-A very low profile vidiot module for Amiga
+Here are two versions of a very low profile vidiot module for Amiga !
 
 # Table of contents
 1. [Why an another Vidiot](#1)
@@ -12,13 +12,13 @@ A very low profile vidiot module for Amiga
 
 THe schematics of the Tiny-Vidiot is the same as the one from Sukkopera, and so the same of the one from a1k.org.
 
-So why ? Because we (Lolof, Seb132 and I) have decided to design the littlest Vidiot module ever made to allow us to install expansions into the Amiga without any contrainst.
+So why ? Because we (Lolof, Seb132 and I) have decided to design the smallest Vidiot module ever made to allow us to install expansions into the Amiga with the smallest possible constraints.
 
 To obtain the littlest pcb possible, the two followings thinks were decided:
   - Components are 0603 footprints,
   - The Tiny-Vidiot pcb is a four layers. One internal layer is for GND while the second internal layer is for VCC power signals.
 
-# Pictures of the PCB in Kicad <a name="2"></a>
+# Pictures of the final PCB in Kicad <a name="2"></a>
 
 Tiny-Vidiot version. 12.4mm wide PCB !
 ![image](https://user-images.githubusercontent.com/80821708/213568383-35f6042e-cdbf-44e3-9c6a-240d0060f56b.png)
