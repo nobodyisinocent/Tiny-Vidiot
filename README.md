@@ -20,9 +20,12 @@ To obtain the littlest pcb possible, the two followings thinks were decided:
 
 # Pictures of the PCB in Kicad <a name="2"></a>
 
+Tiny-Vidiot version:
+![image](https://user-images.githubusercontent.com/80821708/213568383-35f6042e-cdbf-44e3-9c6a-240d0060f56b.png)
 
 
 # PCB assembled <a name="3"></a>
+
 Pictures of the assembled prototype
 ![IMG_3140](https://user-images.githubusercontent.com/80821708/213567397-c4a8a1f8-dc9e-40f4-9552-731b9c4371af.jpg)
 
