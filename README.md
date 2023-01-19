@@ -23,11 +23,16 @@ To obtain the littlest pcb possible, the two followings thinks were decided:
 
 
 # PCB assembled <a name="3"></a>
+Pictures of the assembled prototype
 ![IMG_3140](https://user-images.githubusercontent.com/80821708/213567397-c4a8a1f8-dc9e-40f4-9552-731b9c4371af.jpg)
 
 ![IMG_3141](https://user-images.githubusercontent.com/80821708/213567418-fe9c2d24-4b66-4a82-8015-57d3b7310136.jpg)
 
 ![C=_vs_TinyVidiot](https://user-images.githubusercontent.com/80821708/213567445-dfd29cc0-e84f-4822-a7b8-ce808b918b36.jpg)
+
+![IMG_3124](https://user-images.githubusercontent.com/80821708/213567731-bf22ae6f-379d-4df1-8ad6-de846a88ae92.jpg)
+
+![IMG_3126](https://user-images.githubusercontent.com/80821708/213567756-c26bacb2-14e1-49d0-84ea-3370266fc0fc.jpg)
 
 # About the project files <a name="4"></a>
 
