@@ -20,17 +20,14 @@ To obtain the littlest pcb possible, the two followings thinks were decided:
 
 # Pictures of the PCB in Kicad <a name="2"></a>
 
-![image](https://user-images.githubusercontent.com/80821708/210881493-9b350a56-9f00-4708-9cc0-02580f544b51.png)
-
-![image2](https://user-images.githubusercontent.com/80821708/210881502-15dcbca1-f601-4c47-b4f3-fdabe13d0a9b.png)
-
-![image3](https://user-images.githubusercontent.com/80821708/210881507-52e4b7d6-c75f-4145-a379-fb017e032946.png)
-
-![image4](https://user-images.githubusercontent.com/80821708/210883358-9651c92a-53c1-4269-8bcf-f4d88ec71e8c.png)
 
 
 # PCB assembled <a name="3"></a>
-Pictures of the Tiny-Vidiot here soon.
+![IMG_3140](https://user-images.githubusercontent.com/80821708/213567397-c4a8a1f8-dc9e-40f4-9552-731b9c4371af.jpg)
+
+![IMG_3141](https://user-images.githubusercontent.com/80821708/213567418-fe9c2d24-4b66-4a82-8015-57d3b7310136.jpg)
+
+![C=_vs_TinyVidiot](https://user-images.githubusercontent.com/80821708/213567445-dfd29cc0-e84f-4822-a7b8-ce808b918b36.jpg)
 
 # About the project files <a name="4"></a>
 
