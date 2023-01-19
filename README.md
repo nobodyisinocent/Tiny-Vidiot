@@ -20,9 +20,16 @@ To obtain the littlest pcb possible, the two followings thinks were decided:
 
 # Pictures of the PCB in Kicad <a name="2"></a>
 
-Tiny-Vidiot version:
+Tiny-Vidiot version. 12.4mm wide PCB !
 ![image](https://user-images.githubusercontent.com/80821708/213568383-35f6042e-cdbf-44e3-9c6a-240d0060f56b.png)
 
+![image](https://user-images.githubusercontent.com/80821708/213568646-11a295ff-2300-4434-ad6a-f0e54becd8ca.png)
+
+And the Mini version of the Tiny-Vidiot. 10.4mm wide PCB !
+
+![image](https://user-images.githubusercontent.com/80821708/213570336-721f3a78-cb72-436e-a560-116a93786419.png)
+
+![image](https://user-images.githubusercontent.com/80821708/213570677-b04bc635-df9a-4f88-a3f0-f05f26aa861e.png)
 
 # PCB assembled <a name="3"></a>
 
