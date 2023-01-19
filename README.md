@@ -47,10 +47,12 @@ https://github.com/SukkoPera/OpenAmigaVideoHybrid
 
 # BOM <a name="5"></a>
 
+Available soon
+
 |Id	|Designator	|Package	|Quantity	|Designation	|Link  |
 |---|---|---|---|---|---|
-|1	|U1 to U4      |	SOJ	|4	|HM514400CS7 | ebay, utsource & aliexpress are your friends ! |
-|2	|C1 to C4   |	SMD 0805	|4	|	|https://www.reichelt.com/fr/en/index.html?ACTION=446&LA=446&nbc=1&q=100%20nf%20g0805 |
-|3	|CN1	    |Female right angle 2x20 pin header		|1 |	|https://de.aliexpress.com/item/32758316130.html |
-|4	|Jumper    |Male right angle 1x02 pin header	|1	|	|https://fr.aliexpress.com/item/4000694229610.html |
+|1	| | | 	|  |   |
+|2	|    |	 	| 	|	|  |
+|3	| 	    | 		|  |	|  |
+|4	|    | 	| 	|	|  |
 
