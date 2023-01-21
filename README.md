@@ -59,7 +59,7 @@ https://github.com/SukkoPera/OpenAmigaVideoHybrid
 
 # BOM <a name="5"></a>
 
-Available soon
+Please note you'll find the readme_Sukkoera.md about the evolution of the BOM into the archive.
 
 |Id	|Designator	|Package	|Quantity	|value	|
 |---|---|---|---|---|
