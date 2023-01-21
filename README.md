@@ -50,7 +50,7 @@ Pictures of the assembled prototype (thanks to Lolof for the pictures)
 
 The complete project of this four layers PCB is available here for downloading.
 
-The pcb has been designed with Kicad under Linux: https://www.kicad.org/
+The pcb has been designed with Kicad 5.1.12 (https://www.kicad.org/) under Linux Mint XFCE Edition (https://linuxmint.com/).
 
 To make this pcb, I did not wear out the planet or try to reinvent the wheel... I simply used the Kicad project made by Sukkopera.
 
