@@ -61,10 +61,26 @@ https://github.com/SukkoPera/OpenAmigaVideoHybrid
 
 Available soon
 
-|Id	|Designator	|Package	|Quantity	|Designation	|Link  |
+|Id	|Designator	|Package	|Quantity	|value	|
 |---|---|---|---|---|---|
-|1	| | | 	|  |   |
-|2	|    |	 	| 	|	|  |
-|3	| 	    | 		|  |	|  |
-|4	|    | 	| 	|	|  |
+|1	|C5,C4,C3,C2,C1 |0603 | 5	| 100nF |
+|2	|R12,R20,R4   |	0603 	| 3	|	8k |
+|3	| R16,R24,R29,R39,R8,R23,R15,R7	    | 0603	| 8 |75R|
+|4	|  R17,R9,R1,R25  | 0603	| 4	| 1k	|
+|5  |R18,R10,R2 |0603|3|2k|
+|6  |R19,R11,R3 |0603|3|4k|
+|7  |R26,R36  |0603|2|220R|
+|8  |R31,R34  |0603|2|37.4k|
+|9  |R37,R38  |0603|2|36R|
+|10 |R35  |0603|1|19.6k|
+|11 |R30  |0603|1|90.9K|
+|12 |R28  |0603|1|150R|
+|13 |R27  |0603|1|27k|
+|14 |R22,R14,R6|0603|3|390R|
+|15 |R21,R13,R5|0603|3|470R|
+|16 |R33  |0603|1|6.04k|
+|17 |R32  |0603|1|13.3k|
+|18 |Q1,Q2,Q3,Q4,Q5|SOT-23|5|2N3904|
+|19 |Q6 |SOT-23|1|2N3906|
+|20 |J1 |Pin_Header_Right_angled_1x22_Pitch2.54mm|1| |
 
