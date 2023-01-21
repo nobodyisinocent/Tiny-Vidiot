@@ -35,7 +35,7 @@ And the Mini version of the Tiny-Vidiot. 10.4mm wide PCB !
 
 # PCB assembled <a name="3"></a>
 
-Pictures of the assembled prototype
+Pictures of the assembled prototype (thanks to Lolof for the pictures)
 ![IMG_3140](https://user-images.githubusercontent.com/80821708/213567397-c4a8a1f8-dc9e-40f4-9552-731b9c4371af.jpg)
 
 ![IMG_3141](https://user-images.githubusercontent.com/80821708/213567418-fe9c2d24-4b66-4a82-8015-57d3b7310136.jpg)
