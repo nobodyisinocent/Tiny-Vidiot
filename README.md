@@ -1,7 +1,6 @@
 # Tiny-Vidiot
 Here are two versions of a very low profile vidiot module for Amiga !
-Gerber files are available.
-The Kicad project will be also available very soon.
+The complete Kicad project is availabke here for downloading.
 
 # Table of contents
 1. [Why an another Vidiot](#1)
