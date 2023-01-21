@@ -62,7 +62,7 @@ https://github.com/SukkoPera/OpenAmigaVideoHybrid
 Available soon
 
 |Id	|Designator	|Package	|Quantity	|value	|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |1	|C5,C4,C3,C2,C1 |0603 | 5	| 100nF |
 |2	|R12,R20,R4   |	0603 	| 3	|	8k |
 |3	| R16,R24,R29,R39,R8,R23,R15,R7	    | 0603	| 8 |75R|
