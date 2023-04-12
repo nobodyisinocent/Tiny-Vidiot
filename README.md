@@ -4,8 +4,8 @@ The complete Kicad project is availabke here for downloading.
 
 # Table of contents
 1. [Why an another Vidiot](#1)
-2. [Pictures of the PCB in Kicad](#2)
-3. [PCB assembled](#3)
+2. [Mini Tiny-Vidiot version](#2)
+3. [Tiny-Vidiot version](#3)
 4. [About the project files](#4)
 5. [BOM](#5)
 
@@ -19,22 +19,28 @@ To obtain the littlest pcb possible, the two followings thinks were decided:
   - Components are 0603 footprints,
   - The Tiny-Vidiot pcb is a four layers. One internal layer is for GND while the second internal layer is for VCC power signals.
 
-# Pictures of the final PCB in Kicad <a name="2"></a>
+# Mini Tiny-Vidiot version <a name="2"></a>
 
-Tiny-Vidiot version. 12.4mm wide PCB !
+12.4mm wide PCB !
+
 ![image](https://user-images.githubusercontent.com/80821708/213568383-35f6042e-cdbf-44e3-9c6a-240d0060f56b.png)
 
 ![image](https://user-images.githubusercontent.com/80821708/213568646-11a295ff-2300-4434-ad6a-f0e54becd8ca.png)
 
-And the Mini version of the Tiny-Vidiot. 10.4mm wide PCB !
+Mini version of the Tiny-Vidiot. 10.4mm wide PCB !
 
-![image](https://user-images.githubusercontent.com/80821708/213570336-721f3a78-cb72-436e-a560-116a93786419.png)
+![IMG_20230412_170601](https://user-images.githubusercontent.com/80821708/231502683-36a7c081-4a3f-4d99-bdf6-8bbce0d389f2.jpg)
 
-![image](https://user-images.githubusercontent.com/80821708/213570677-b04bc635-df9a-4f88-a3f0-f05f26aa861e.png)
+![IMG_20230412_170622](https://user-images.githubusercontent.com/80821708/231502696-5457f381-9f20-4048-9cbd-93ada87e60ae.jpg)
 
-# PCB assembled <a name="3"></a>
+![IMG_20230412_170655](https://user-images.githubusercontent.com/80821708/231502747-95996269-8486-4248-b2fe-958064a503ce.jpg)
 
-Pictures of the assembled prototype (thanks to Lolof for the pictures)
+![IMG_20230412_170727](https://user-images.githubusercontent.com/80821708/231502760-4cfececc-e003-4628-88e0-22a52e45b3ef.jpg)
+
+# Tiny-Vidiot version <a name="3"></a>
+
+12.4mm wide PCB ! Pictures by Lolof.
+
 ![IMG_3140](https://user-images.githubusercontent.com/80821708/213567397-c4a8a1f8-dc9e-40f4-9552-731b9c4371af.jpg)
 
 ![IMG_3141](https://user-images.githubusercontent.com/80821708/213567418-fe9c2d24-4b66-4a82-8015-57d3b7310136.jpg)
